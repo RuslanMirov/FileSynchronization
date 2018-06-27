@@ -1,0 +1,16 @@
+{
+  "name": "FileSynchronization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FilesSynchronization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isdir": "^2.0.1",
+    "md5-file": "^4.0.0"
+  }
+}
